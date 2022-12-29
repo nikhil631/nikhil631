@@ -1,5 +1,5 @@
 # Welcome To my Profile
-:wave: Hello, My name is Nikhil Kumar Tomar, I generally define myself as simple Computer Enthusiast :nerd_face:<br/>
+:wave: Hello, My name is Nikhil Kumar Tomar, I generally define myself as simple Computer Enthusiast<br/>
 I just like all the things Computers have to offer, The greatest thing I find myself doing is spending hours and hours on PC and not getting tired whatsoever, this is one ability that I am thankful that I have.<br/><br/>
 
 # Hobbies
